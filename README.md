@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandrakantvy
+- 👋 Hi, I’m Chandrakant Vyavahare
 - 👀 I’m interested in software development related work
 - 🌱 I’m currently learning operations side of things like docker, kubernetes, jenkins
 - 💞️ I’m looking to collaborate on any project involving tech stack like Java, python, javascript, or Projects which are in web development, ML/AI,
